@@ -1,1 +1,3 @@
-# Arnav1200.github.io
+# Personal Website.
+
+link: arnavdureja.me
